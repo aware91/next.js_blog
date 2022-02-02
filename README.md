@@ -1,1 +1,1 @@
-# next.js_blog
+Next.js Blog to learn framework
